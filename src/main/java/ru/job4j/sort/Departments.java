@@ -1,15 +1,8 @@
 package ru.job4j.sort;
-
-import java.lang.reflect.Array;
 import java.util.*;
 
 public class Departments {
-//*
-//
-//
-//
-//
-// *//
+
     public static List<String> fillGaps(List<String> deps) {
         Set<String> tmp = new HashSet<>();
         for (String value : deps) {
