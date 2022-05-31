@@ -1,7 +1,6 @@
 package ru.job4j.encapsulation;
 
 import org.junit.Test;
-
 import static org.hamcrest.Matchers.is;
 import static org.junit.Assert.*;
 
