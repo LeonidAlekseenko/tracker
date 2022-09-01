@@ -16,5 +16,3 @@
 
 1. Производить поиск по имени заявки.
 
-
-[![Build Status](https://app.travis-ci.com/LeonidAlekseenko/job4j_tracker.svg?branch=main)](https://app.travis-ci.com/LeonidAlekseenko/job4j_tracker)
