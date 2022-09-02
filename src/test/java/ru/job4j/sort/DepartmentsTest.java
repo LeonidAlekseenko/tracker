@@ -1,5 +1,6 @@
 package ru.job4j.sort;
 import org.junit.Test;
+import ru.job4j.elementary.sort.Departments;
 
 import java.util.Arrays;
 import java.util.List;

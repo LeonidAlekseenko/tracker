@@ -1,6 +1,8 @@
 package ru.job4j.collection;
 
 import org.junit.Test;
+import ru.job4j.elementary.collection.*;
+
 import java.util.Comparator;
 import static org.hamcrest.Matchers.lessThan;
 import static org.hamcrest.number.OrderingComparison.greaterThan;

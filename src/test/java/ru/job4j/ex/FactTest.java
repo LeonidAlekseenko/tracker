@@ -1,8 +1,8 @@
 package ru.job4j.ex;
 import org.junit.Test;
+import ru.job4j.elementary.ex.Fact;
 
 import static org.hamcrest.Matchers.is;
-import static org.junit.Assert.*;
 
 public class FactTest {
 

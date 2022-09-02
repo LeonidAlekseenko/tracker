@@ -1,8 +1,8 @@
 package ru.job4j.tracker;
 
 import org.junit.Test;
-import ru.job4j.oop.Point;
-import ru.job4j.oop.Triangle;
+import ru.job4j.elementary.oop.Point;
+import ru.job4j.elementary.oop.Triangle;
 import static org.junit.Assert.assertThat;
 import static org.hamcrest.Matchers.closeTo;
 

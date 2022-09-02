@@ -1,6 +1,7 @@
 package ru.job4j.collection;
 
 import org.junit.Test;
+import ru.job4j.elementary.collection.UniqueElement;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,6 +1,8 @@
 package ru.job4j.pojo;
 
 import org.junit.Test;
+import ru.job4j.elementary.pojo.Product;
+import ru.job4j.elementary.pojo.ShopDrop;
 
 import static org.hamcrest.Matchers.is;
 import static org.hamcrest.Matchers.nullValue;

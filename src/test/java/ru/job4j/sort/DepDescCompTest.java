@@ -1,5 +1,6 @@
 package ru.job4j.sort;
 import org.junit.Test;
+import ru.job4j.elementary.sort.DepDescComp;
 
 import static org.hamcrest.Matchers.greaterThan;
 import static org.hamcrest.Matchers.lessThan;

@@ -1,6 +1,8 @@
 package ru.job4j.pojo;
 
 import org.junit.Test;
+import ru.job4j.elementary.pojo.Product;
+import ru.job4j.elementary.pojo.Shop;
 
 import static org.hamcrest.core.Is.is;
 import static org.junit.Assert.*;
